@@ -1,1 +1,3 @@
-# NeuralNetworks-Assign2_-700740529
+# NeuralNetworks-Assign2
+Name: Akanksha Rao Panchaneni
+Id: 700740529
